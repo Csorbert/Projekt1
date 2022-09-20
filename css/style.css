@@ -67,3 +67,28 @@ nav, .dropdown-menu {
     background-color: rgb(24, 24, 24);
     font-weight: bold;
 }
+
+.kep {
+    box-shadow: 0px 0px 4px 1px black;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.253);
+    padding: 10px;
+}
+
+.btn {
+    background-color: rgb(78, 78, 78);
+    color: white;
+    margin: auto;
+    display: block;
+}
+
+.card-body {
+    margin: 0;
+    padding: 0;
+}
+
+.card-title {
+    padding-top: 10px;
+}
